@@ -1,6 +1,0 @@
-[LAMP_Vibe 서버 접속]
-IP : 52.78.44.84
-SSH KEY : /Users/iychoi/Desktop/아마존서버/LAMP_KEY.pem
-사용자 이름 : bitnami
-MySQL password: V0sCcqls2/lX
-Home Dir: /opt/bitnami/apache2/htdocs
